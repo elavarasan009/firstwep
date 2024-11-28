@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    border: 0;
+}
+nav{
+    border-style: solid;
+    border-color: rgb(223, 94, 14);
+    border-width: 5px;
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.h1,li {
+    
+    display: inline;
+}
+li:hover{
+    color: rgb(22, 154, 236);
+}
+.box{
+    
+     padding: 0px;
+     margin:1px;
+    display: inline-block;
+    height: 450px;
+    width:250px;
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: 4px;
+     text-align: center;
+   }
+   .select{
+    padding: 9px;
+    background-image: linear-gradient(rgb(72, 125, 135), rgb(231, 234, 234)), url('hotel.jpg');
+   }
+   img{
+       
+        height: 344px;
+        width: 250px;
+        display: inline;
+    
+   }
+  .ok {
+   
+    padding: 5px;
+    display: inline;
+    background-color: black;
+    color: white;
+   }
+   .ok:hover{
+    color: rgb(226, 217, 43);
+   }
+   div{
+    padding:0px;
+    text-align: center;
+   }
+  .one{
+    background-color: black;
+    height:200px;
+  }
+  form{
+    padding-top: 0%;
+  }
+  table{
+      color: aliceblue;
+      }
+   .design{
+   background-color: yellow;
+   border-color: black;
+    color:black ;
+    width: 40%;
+    height: 50px;
+    
+   
+    margin-left: 50px;
+    
+   }
+   h4{
+    text-align: center;
+   }
